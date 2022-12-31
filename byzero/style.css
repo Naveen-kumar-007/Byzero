@@ -1,0 +1,95 @@
+body {
+    min-width: 960px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#content {
+    width: 960Px;
+    margin: 0 auto;
+    background-color: #e0fbfc;
+}
+
+#paragraph {
+    line-height: 22px;
+}
+
+
+
+.main {
+    width: 50%;
+    float: left;
+    margin-right: 3%;
+
+}
+
+#image {
+    padding-top: 80px;
+    width: 45%;
+    float: left;
+}
+
+#heading {
+    background-color: #293241;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+}
+
+#beautifulspace {
+    font-style: italic;
+    color: #3d5a80;
+    font-size: 60px;
+}
+
+#offical {
+    color: #98c1d9;
+}
+
+#movement {
+    color: #ee6c4d;
+    font-style: italic;
+
+}
+
+#writername {
+    color: #ee6c4d;
+
+
+}
+
+#winter {
+    width: 40%;
+    color: white;
+    background-color: #3d5a80;
+    margin: 100px auto;
+    padding: 7em 3em 7em;
+position: sticky;
+
+}
+
+#topborder {
+
+    border: 2px solid #ee6c4d;
+    padding: 20px;
+    width: 50px;
+    height: 50px;
+
+    position: absolute;
+    top: 400px;
+    right: 250px;
+    z-index: -1;
+}
+
+#bottomborder {
+
+    border: 2px solid #ee6c4d;
+    padding: 20px;
+    width: 50px;
+    height: 50px;
+    z-index: -1;
+    position: absolute;
+    right: 515px;
+    top: 740px;
+
+
+}
